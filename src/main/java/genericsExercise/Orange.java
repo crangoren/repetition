@@ -1,4 +1,4 @@
-package genericsExc;
+package genericsExercise;
 
 public class Orange extends Fruit{
     public Orange() {

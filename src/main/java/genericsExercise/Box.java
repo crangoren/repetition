@@ -1,4 +1,4 @@
-package genericsExc;
+package genericsExercise;
 
 import java.util.ArrayList;
 import java.util.Arrays;

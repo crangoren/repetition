@@ -1,8 +1,4 @@
-package genericsExc;
-
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+package genericsExercise;
 
 public class MainApp {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package genericsExc;
+package genericsExercise;
 
 public abstract class Fruit {
     private float weight;
